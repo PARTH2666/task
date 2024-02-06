@@ -1,0 +1,36 @@
+
+    {
+        "city": "RandomCity",
+        "country": "RandomCountry",
+        "weather": [
+          {
+            "date": "2024-02-05",
+            "temperature": 20.5,
+            "description": "Clear sky",
+            "humidity": 60,
+            "wind_speed": 10.3
+          },
+          {
+            "date": "2024-02-06",
+            "temperature": 18.2,
+            "description": "Partly cloudy",
+            "humidity": 65,
+            "wind_speed": 8.7
+          },
+          {
+            "date": "2024-02-07",
+            "temperature": 16.8,
+            "description": "Light rain",
+            "humidity": 70,
+            "wind_speed": 12.1
+          },
+          {
+            "date": "2024-02-08",
+            "temperature": 22.0,
+            "description": "Sunny",
+            "humidity": 55,
+            "wind_speed": 9.5
+          }
+        ]
+      }
+      
